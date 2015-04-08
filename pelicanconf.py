@@ -18,6 +18,10 @@ EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 PLUGIN_PATHS = ['plugins']
 PLUGINS = ['pelican_dynamic']
 
+THEME = 'themes/flasky'
+
+SECTIONS = [('Art', 'category/art'),
+            ('Test', 'category/test')]
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
