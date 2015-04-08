@@ -1,12 +1,12 @@
 Title: The Self
+Slug: the-self
 Date: 2015-04-08
+Author: Miles Tjandrawidjaja
 Category: Art
 Tags: consciousness, self
-Slug: the-self
-Author: Miles Tjandrawidjaja
-Summary: First javascript artwork. Representation of the self.
+Summary: Representation of the self.
+Excerpt: Representation of the self.
 Scripts: soul.js
-Excerpt: Test Exerpt weoifmeoi eimfoew ofoewif winf woinfiew foinewfoewn we now neo nown ow nownow n
 
 <center>
 <canvas id="screen" width="600" height="450">
