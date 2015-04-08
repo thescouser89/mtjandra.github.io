@@ -4,6 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Miles Tjandrawidjaja'
 SITENAME = 'Tjandrawidjaja'
+SITESUBTITLE = '.Thimk'
 SITEURL = ''
 
 PATH = 'content'
