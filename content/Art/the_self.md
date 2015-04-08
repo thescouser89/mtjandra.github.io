@@ -6,9 +6,10 @@ Slug: the-self
 Author: Miles Tjandrawidjaja
 Summary: First javascript artwork. Representation of the self.
 Scripts: soul.js
+Excerpt: Test Exerpt weoifmeoi eimfoew ofoewif winf woinfiew foinewfoewn we now neo nown ow nownow n
 
-Art
-dwd
-<canvas id="screen">
+<center>
+<canvas id="screen" width="600" height="450">
     <script type="text/javascript" src="../js/soul.js"> </script>
 </canvas>
+</center>

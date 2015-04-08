@@ -32,8 +32,6 @@
 
     function configureCanvas(canvasId) {
         var canvas = document.getElementById(canvasId);
-        canvas.width = window.innerWidth;
-        canvas.height = window.innerHeight;
         return canvas;
     }
 
@@ -107,10 +105,10 @@
             screen.fillStyle = '#000000';
             screen.font = 'bold 30px monospace';
             screen.textAlign = 'center';
-            if((canvas.height/2) >= 300) {
-                screen.fillText("def think(mtjandra: Self)", canvas.width/2 , canvas.height/2 - 300);
-                screen.fillText("=", canvas.width/2 , canvas.height/2 - 250);
-                screen.fillText("{ () => mtjandra }", canvas.width/2 , canvas.height/2 - 200);
+            if((canvas.height/2) >= 150) {
+                screen.fillText("def think(mtjandra: Self)", canvas.width/2 , 50);
+                screen.fillText("=", canvas.width/2 , 100);
+                screen.fillText("{ () => mtjandra }", canvas.width/2 , 150);
             }
             else {
                 screen.fillText("def think(mtjandra: Self)", canvas.width/2 , 50);
@@ -123,13 +121,11 @@
         function displaySoul(colour) {
             screen.clearRect(0, 0, canvas.width, canvas.height);
             screen.fillStyle = rgbToHex(colour);
-            screen.arc(canvas.width/2, canvas.height/2, 100, 0, 2*Math.PI);
+            screen.arc(canvas.width/2, canvas.height/2 + 100, 100, 0, 2*Math.PI);
             screen.fill();
         }
 
         function breathe() {
-            canvas.width = window.innerWidth;
-            canvas.height= window.innerHeight;
             transition();
             displaySoul(colour);
             displayText();

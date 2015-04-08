@@ -1,5 +1,5 @@
-Title: Test Title
-Slug: test-title
+Title: Test Title 2
+Slug: test-title-2
 Date: 2015-04-08
 Tags: test, temp
 Summary: Test summary used in index page and other places.

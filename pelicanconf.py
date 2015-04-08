@@ -22,6 +22,7 @@ PLUGINS = ['pelican_dynamic']
 THEME = 'themes/flasky'
 
 SECTIONS = [('Art', 'category/art'),
+            ('Archives', 'archives'),
             ('Test', 'category/test')]
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
