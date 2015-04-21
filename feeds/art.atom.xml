@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Tjandrawidjaja</title><link href="http://tjandrawidjaja.com/" rel="alternate"></link><link href="http://tjandrawidjaja.com/feeds/art.atom.xml" rel="self"></link><id>http://tjandrawidjaja.com/</id><updated>2015-04-08T00:00:00-04:00</updated><entry><title>The Self</title><link href="http://tjandrawidjaja.com/the-self.html" rel="alternate"></link><updated>2015-04-08T00:00:00-04:00</updated><author><name>Miles Tjandrawidjaja</name></author><id>tag:tjandrawidjaja.com,2015-04-08:the-self.html</id><summary type="html">&lt;p&gt;&lt;center&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Tjandrawidjaja</title><link href="http://tjandrawidjaja.com/" rel="alternate"></link><link href="http://tjandrawidjaja.com/feeds/art.atom.xml" rel="self"></link><id>http://tjandrawidjaja.com/</id><updated>2015-04-21T00:00:00-04:00</updated><entry><title>Same as Different</title><link href="http://tjandrawidjaja.com/same-as-different.html" rel="alternate"></link><updated>2015-04-21T00:00:00-04:00</updated><author><name>Miles Tjandrawidjaja</name></author><id>tag:tjandrawidjaja.com,2015-04-21:same-as-different.html</id><summary type="html">&lt;p&gt;&lt;center&gt;
+&lt;canvas id="screen" width="600" height="450"&gt;
+    &lt;script type="text/javascript" src="../js/same_as_different.js"&gt; &lt;/script&gt;
+&lt;/canvas&gt;
+&lt;/center&gt;&lt;/p&gt;</summary><category term="sameness"></category></entry><entry><title>The Self</title><link href="http://tjandrawidjaja.com/the-self.html" rel="alternate"></link><updated>2015-04-08T00:00:00-04:00</updated><author><name>Miles Tjandrawidjaja</name></author><id>tag:tjandrawidjaja.com,2015-04-08:the-self.html</id><summary type="html">&lt;p&gt;&lt;center&gt;
 &lt;canvas id="screen" width="600" height="450"&gt;
     &lt;script type="text/javascript" src="../js/soul.js"&gt; &lt;/script&gt;
 &lt;/canvas&gt;
